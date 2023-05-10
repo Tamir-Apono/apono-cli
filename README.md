@@ -13,7 +13,7 @@ brew tap apono-io/tap
 brew install apono-cli
 ```
 
-#### Windows using [Scoop](https://scoop.sh)
+#### Windows using [S22coop](https://scoop.sh)
 ```powershell
 scoop bucket add apono https://github.com/apono-io/scoop-bucket
 scoop install apono/apono-cli
